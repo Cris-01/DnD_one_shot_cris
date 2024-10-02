@@ -1,1 +1,0 @@
-Un poliziotto in carne gestisce l'archivio

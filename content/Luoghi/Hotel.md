@@ -1,1 +1,0 @@
-L'Hotel è dove soggiornano i pg
