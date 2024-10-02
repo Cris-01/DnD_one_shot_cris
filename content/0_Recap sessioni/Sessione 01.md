@@ -1,55 +1,117 @@
-(Data 06/06/2024)
+Giocatori: [[Golhahdov]], [[Signorina N]], [[Erlong]]
 
-Notte tra il 30 aprile e il 1° maggio.
-C'è un'aria fresca e umida con una luna calante.
-Piove. Siamo una locanda dove i boscaioli della carovana a cui ci siamo accodati si è fermata per riposare.
-All'interno di questa locanda i quattro avventurieri si incontrano
+E' un pomeriggio piovoso nella città di [[DaggerFord (città)]].
+[[Golhahdov]], un dragonide da poco arrivato in città si rifugia nella locanda del [[Cavallo Impennato, locanda]]. 
+Nel locale ci sono vari avventori che parlano fra loro e bevono birra.
+Vicino al bancone, un omone con la pelle scura e la tipica veste da locandiere sta conversando con una ragazzina.
+Il locandiere vedendolo entrare lo saluta e lo invita a farsi avanti.
 
-Abbiamo:
-	- [[Golhahdov]], un tiefling blu che ha come compagno [[Pantene (famiglio)]] (la macchina omicida perfetta)
-	- [[Signorina N]], un gigantesco lucertoloide
-	- [[Erlong]], un chierico umano molto espansivo
-	- [[Lionel Cuternitis]], un mago umano allergico a quasi tutti gli animali (piume e pelo). Ha un famiglio serpente di nome [[Coral (famiglio)]]
+Si viene a scoprire che sia il dragonide che la ragazzina [[Signorina N]], sono in cerca della nuova gilda che si dice stia arruolando nuovi membri in città.
 
-Il gruppo di avventurieri scambiano qualche parola durante il viaggio e scoprono che sono tutti diretti a [[SilveryMoon (città)]] per vari motivi.
+##### Volantino Gilda
+"Se stai cercando di guadagnare fama o gloria; se vuoi proteggere i deboli e gli indifesi; o se semplicemente vuoi un luogo da poteri chiamare casa, unisciti alla nostra gilda!" Vieni nella cittadina di Daggerford e chiedi informazione all'oste della locanda "il cavallo impennato"
 
-Durante il viaggio un boscaiolo si avvicina a Lionel avendo saputo che ha un famiglio serpente e attacca bottone. 
-A quanto pare suo figlio è stato accettato alla scuola di magia "La volta dei saggi", nella succursale di [[DaggerFord]]. Lionel si congratula con l'uomo, e gli augura che suo figlio possa un giorno rientrare nella scuola principale con sede a SilveryMoon (come l'uomo spera ardentemente). Gli racconta che lui non ha avuto modo di studiare presso una scuola ma ha imparato come apprendista di un mago itinerante.
+Nel mentre smette di piovere e il locandiere indirizza i due ad uscire leggermente fuori dalla città e seguire la strada fino ad arrivare ad una vecchia tenuta un po' malridotta. La nuova gilda pare avere acquistato l'edificio dalla duchessa di Daggerford ad un basso prezzo, essendo un vecchia tenuta semi distrutta da un incendio che nessuno utilizzava.
 
-Salutata la carovana una volta arrivati ad un bivio, si avviano insieme verso la città.
-Durante la notte hanno scoperto un po' di più su di loro.
+I due si incamminano fino ad arrivare davanti questo edificio poco fuori città.
+E' effettivamente malmesso e si vedo i danni dovuti all'incendio al secondo piano. Il piano terra sembra essere in condizioni accettabili e si sente del vociare provenire dall'interno.
+Bussano alla porta e vengono accolti da una ragazza coi capelli rossi sui vent'anni.
+Ella si presenta come [[Eveleen (capogilda)]] e insieme a lei c'è un'altra ragazza tiefling dalla pelle blu [[Neliel (vice-capo gilda)]], e un gruppetto di marmocchi intenti a prepararsi per la cena intorno:
+- 3 ragazzini umani (tra i 7 e i 10 anni)
+- 2 mezz'elfi maschio e femmina che si assomigliano molto (sui 10 anni)
+- 1 ragazzo mezz'orco che pare avere all'incirca 14 anni
 
-Blàfar, ha un famiglio topo che porta con se di nome Pantene. Si veste leggero nonostante la temperatura non proprio calda. Sembra avere un carattere riservato. Non apprezza l'invasività di Padre Solero
+Dopo che Eveleen e Neliel si sono presentate chiedono ai nuovi venuti cosa vogliono.
+[[Golhahdov]] dice si essere un guerriero, mentre la [[Signorina N]] una maga, entrambi desiderosi di unirsi alla gilda.
+Eveleen pare felice della notizia ma invita i due a dare prova delle loro capacità.
+La Signorina N mostra alcuni trucchetti di magia, mentre [[Golhahdov]] vorrebbe confrontarsi col più forte che c'è nella gilda.
+All'inizio ([[Gustav (ragazzo mezz'orco)]] si alza dalla panca con la faccia felice ma Eveleen lo ferma con un sorriso e dice a Golhahdov che sarà la sua avversaria.
+Detto questo, poggia il liuto che teneva vicino a se e prende uno scudo rotonda e uno stocco mettendosi in posizione per un rapido scambio di colpi con il dragonide.
 
-Sabine accompagna e protegge Blàfar facendogli da scorta. Venera il dio dei paladini [[Torm]]. 
+Mentre i due stanno per iniziare lo scontro, la porta della gilda si spalanco e un grido riempie la sala 
+"Gente! Il Guerriero Dragone è qui!!!"
+Sulla soglia c'è un lucertoloide (coboldo) dalle squadre rosse, alto 70 cm, con una tunica indosso e delle piume variopinte sulla testa.
 
-Padre Solero, è un chierico molto espansivo e tratta tutti come pecorelle da salvare. Venera il dio [[Lathander]], il signore del mattino.
+Tutti si girano a guardarlo ed egli si presenta come [[Erlong]], il guerriero dragone, anche lui desideroso di unirsi alla nuova gilda.
 
-Lionel, è un mago vestito molto elegantemente, con un famiglio serpente di nome Coral. Si è fatto accompagnare nel suo viaggio da Solero per evitare pericoli.
+A questo punto Eveleen decide di far combattere l'ultimo arrivato al suo posto contro Golhahdov per dare prova delle loro abilità.
+Sotto gli occhi sorpresi di tutti Erlong si trasforma e il suo corpo diventa più grande e possente
+![[forma_guerriero_dragone.png]]
 
-Lungo la strada, i quattro vengono assaliti da un gruppo di banditi e orchi. Dopo aver vinto lo scontro e sopraffatto gli avversari (tagliando teste, azzannando tibie, e incenerendo i miscredenti), i quattro avventurieri scoprono che prima di loro, un altro gruppo era stato attaccato.
-Trovano i cadaveri di tre uomini in uniforme (dai simboli, capiamo che facevano parte della legione d'argento [[Simbolo Legione d'argento]]) e alcuni cavalli di cui un paio ancora in vita.
-Nascosto tra la boscaglia, Solero trova un ragazzo apparentemente preso prigioniero dai banditi, visto che lo trovano legato e imbavagliato.
-Il ragazzo, dove essere tornato cosciente, dice di chiamarsi [[Mike Harming]]. Lionel sentendo il cognome, ricorda di aver sentito di un certo [[Peter Harming]] che fa parte del governo della città si SilveryMoon.
-Il ragazzo dopo aver risposto a qualche domanda si accorge di aver perso qualcosa che non ritrova nelle sue tasche e sviene.
+Si avventa contro Golhahdov e i due danno provo di grandi doti combattive.
 
-Dopo che Solero, con l'aiuto di Sabine, mette tutti i corpi dei defunti su una pira, recita una piccola preghiera in onore dei caduti.
+Tutti e tre i nuovi avventurieri vengono infine accettati come nuovi membri della gilda ed Eveleen gli chiede di accompagnarla l'indomani perché ha un compito da svolgere.
 
-I quattro, caricano Mike su un cavallo e si avviano verso la città.
+I tre firmano un contratto con le regole da seguire della gilda e su come viene spartito il compenso delle missioni ([[Contratto gilda]])
 
-NOTA: tra gli oggetti in possesso dei banditi, Solero trova alcune monete:
-- alcune monete di bronzo (bagliori)
-- alcune d'argento (scudi)
-- qualche moneta d'oro (draghi)
-- una strana moneta, conosciuta solo da Blàfar e Sabine, un'eclisse (50GP)
+Passa la notte dove tutti dormono e in alcune stanze spartane o nel dormitorio comune dove dormono anche i bambini
+NOTA: la Signorina N non viene notata ne dormire ne mangiare
+NOTA2: Golhahdov e Erlong battibeccano fra di loro, Golhahdov non lascia bere il vino a Erlong che lo vorrebbe tanto
 
-Prima di arrivare vicino alla città, sulla spalla di Solero si poggia un piccione che inizia a recitare un messaggio con la voce di una persona
+L'indomani Eveleen spiega ai tre che la gilda non ha ancora un nome ufficiale, questo perché lei vorrebbe riutilizzare il nome della vecchia gilda fondata dai suoi genitori (deceduti) che ora non esiste più da ormai un decennio (La gilda del loto bianco).
+Per utilizzare il vecchio nome occorre avere l'approvazione dai precedenti fondatori ancora in vita della gilda. Si da il caso che entrambi vivano nei pressi di Daggerford ed è con loro che andranno a parlare.
 
-"A Silverymoon il Satiro Sorridente è un luogo tranquillo, chiedete al taverniere una bottiglia di liquore nanico. Con affetto, Coccinella Blu". - Messaggio del Piccione ([[Messaggio misterioso della coccinella blu]]).
+I due fondatori ancora in vita sono:
+- [[Rurark (ex-capogilda)]]
+- [[Adran Maestro d'armi (ex-capogilda)]]
 
-Arrivati ai confini della città, circondata da mura alte 10 metri, veniamo fermati davanti la porta dell'ingresso a nord-est da degli uomini che identifichiamo come facenti parte della guardia cittadina ([[Stendardo guardia cittadina di SilveryMoon]]). Essi, riconosciuto il ragazzo che portiamo a cavallo, lo prendono in consegna e noi li lasciamo fare.
+Eveleen racconta che Rurark è un firbolg molto saggio che gestisce una sua fattoria poco fuori Daggerford. Lui non dovrebbe essere difficile da convincere.
+Mentre l'altro è Adran un elfo alto che lavora come fabbro a Daggerford. Lui potrebbe creare problemi data il suo atteggiamento iper-protettivo nei confronti di Eveleen.
 
-I soldati prendono i nostri nomi e ci chiedono di non lasciare la città. Chiediamo indicazione su dove alloggiare. Ci facciamo dare le indicazione per arrivare al [[Satiro Sorridente (locanda)]]. Alcuni cercano di memorizzare le indicazioni, Lionel le segna su un foglio di pergamena (a quanto pare è vicino alla scuola di magia "La volta dei saggi").
+Golhahdov chiede a Eveleen se non sarebbe più semplice creare una nuova gilda con un altro nome. Eveleen gli risponde che è suo desiderio portare avanti il sogno dei suoi genitori anche se ora non ci sono più e vuol farlo facendo rinascere la gilda che tanto ha imparato ad amare da piccola. Non ha intenzione di cambiare idea serve lottare.
+
+Il gruppetto arriva in una fattoria poco distante. Le piante e l'orto sono molto rigogliosi e gli animali ben tenuti. La casa stessa sembra essere per metà essere costruita in legno e l'altra facente ancora parte di un albero enorme sul limitare del bosco vicino.
+Rurark non tarda ad accoglierli e gli offre del tè.
+Una volta messo al corrente del desiderio di Eveleen non si oppone all'utilizzo del nome, tuttavia vuole mettere conoscere meglio le nuove reclute che rappresenteranno la gilda nelle future avventure.
+
+A ognuno del gruppo Rurark chiede di condividere una ricordo intimo del proprio passato, spiegando che la condivisione aiuta un gruppo da poco formato a creare da subito legami più forti. Per chi non si sentisse a suo agio nel rilevare il proprio passato, Rurark offre in cambio di risolvere un indovinello per divertirlo dato che lui ama gli indovinelli.
+
+Erlong e Golhahdov decidono di condividere alcune cose del loro passato.
+
+Golhahdov pare sia stato tenuto prigioniero e torturato da un gruppo di persone malvagie ma che ora sono morte perché lui se ne è sbarazzato (NOTA cris: non ricordo bene i dettagli, è da modifica)
+
+Erlong racconta della suà tribù Urtina e di come al suo interno i vari membri cerchino di perfezionarsi fino al raggiungere la perfezione che loro chiamano "Nirvana". La canzone più importante della sua tribù si chiama "Smells like Drake spirits" 
+
+La Signorina N dice non essere in grado di condividere il suo passato e accetta di sottoporsi all'indovinello di Rurark.
+"Vivo, ma non respiro,
+come la morte ho freddo il corpo,
+ho delle scaglie che mi cingono il corpo,
+ma esse non tintinnano,
+mai assetato, ma sempre bevo"
+
+La Signorina N con molta prontezza da subito la risposta corretta "Un pesce"
+[[Indovinello 1]]
+
+Rurark con sorriso da la sua benedizione al gruppo e decide come ringraziamento per aver condiviso le proprie storie e averlo divertito con i suoi indovinelli di regalare:
+- una pozione di intralciare DC13 (presa da Golhahdov)
+- il casting dell'incantesimo Aiuto al terzo livello 
+A suo dire l'incantesimo Aiuto servirà visto che Adran non la prenderà bene come lui e per convincerlo potrebbero non bastare le parole.
+
+Il gruppo ringrazia Rurark e si avvia fino ad arrivare alla fucina di Adran.
+Da lontano scorgono un ragazzo sui sedicini anni umano che sta lavorando alla forgia.
+Eveleen lo saluta (si chiama [[Eric (apprendista fabbro di Adran)]]) e chiede dove sia Adran. Eric, senza incrociare il suo sguardo le risponde che il maestro sta facendo i suoi esercizi di allenamento quotidiani nel vecchio magazzino li di fianco. Eveleen lo invita ad alzare lo sguardo al che lui le risponde che il suo maestro lo ha minacciato con una severa punizione nel caso lo vedo fissarla troppo a lungo.
+Eveleen mezzo divertita e mezzo esasperata conduce il gruppo verso il capanno sul retro.
+L'edificio è un grosso magazzino alto 5 metri. La porta di ingresso e mezzo socchiusa e le finestre sono sbarrate.
+Una volta entrati notano che solo una luce fioca aleggia nello stabile.
+Verso il fondo una forma umanoide gli da le spalle, immobile, con due pugnali in mano. Con rapidi gesti la figura inizia a roteare su se stessa e falciare l'aria con veloci fendenti per poi completare il tutto lanciando simultaneamente i due pugnali verso due manichini i quali vengono entrambi trafitti al centro della testa.
+
+Sentendo qualcuno entrare l'elfo dai capelli bianchi si gira e saluta Eveleen chiedendo cosa è venuta a fare.
+Nell'avvicinarsi i nuovi avventurieri notano che ha un profonda cicatrice sul volto e i suoi occhi sono completamente cechi.
+Dopo che Eveleen spiega cosa vuole fare, come anticipato da Rurark il maestro d'armi non sembra per niente collaborativo.
+Da quello che dice non vuole che Eveleen si esponga in questo modo ad una vita pericolosa come quella dell'avventuriero. Ha promesso a sua madre che si sarebbe preso cura di lei e che non deve allontanarsi troppo da lui in modo che possa proteggerla.
+
+La Signorina N gli fa notare che qualcuno la attaccasse mentre lui rimane qui a lavorare non sarebbe comunque in grado di aiutarla in tempo e che sarebbe comunque al sicuro con un gruppo di compagni che possano starle a fianco.
+
+Dopo qualche scambio l'elfo sembra dare il beneficio del dubbio al gruppo che sembra ben intenzionato, ma afferma che darà la sua benevolenza solo se dimostreranno effettivamente che loro hanno la forza necessaria per proteggere Eveleen.
+
+Detto questo prende due spade di legno da allenamento e invita i 3 a farsi avanti.
+
+Dopo che i tre combattono col guerriero, che sembra essere in grado di vedere anche senza l'utilizzo degli occhi entro una certa distanza (9metri), dopo alcuni colpi subiti da entrambe le parti, Golhahdov, Erlong e la Signorina N riescono a prevalere
+
+Adran concede infine la sua benedizione ma afferma che anche lui (e il suo apprendista Eric) si uniranno alla gilda in modo che lui possa continuare a tenere d'occhio il gruppo e che la gilda porti avanti i suoi ideali originali.
+
+Il gruppo torna tutto insieme alla gilda e festeggia con un pranzo offerto da Rurark che gli ha fatto visita portando vari alimenti dalla sua fattoria con cui cucinare (Rurark diventa effettivamente il cuoco della gilda)
+
 
 
 
