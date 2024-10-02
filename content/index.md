@@ -1,6 +1,7 @@
----
-title: Welcome to Quartz
----
+## Sezioni
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- Recap sessioni - [[Sessione 01]]
+- Luoghi - [[DaggerFord (città)]]
+- NPC - [[Eveleen (capogilda)]]
+- Oggetti - [[Elenco oggetti magici e importanti in possesso del party]]
+- PG - [[Golhahdov]]
